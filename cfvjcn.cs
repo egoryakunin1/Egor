@@ -24,7 +24,10 @@ namespace ConsoleApp32
                 a = r1 / r2;
                 double res = l * a;
                 Console.WriteLine(+res);
+              
+
             }
+            Console.WriteLine("a="r);
             Console.ReadKey();
 
             
